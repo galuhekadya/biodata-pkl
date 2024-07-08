@@ -1,0 +1,74 @@
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    background-image: url('https://e0.pxfuel.com/wallpapers/60/562/desktop-wallpaper-pastel-background-landscape-page-6-pastel-landscape-art.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.table {
+    margin:auto;
+    width: 50%;
+    border-radius: 5px;
+  
+}
+.tam {
+    margin-left: 585px;
+    background-color:#f582ae;
+    color :rgb(0, 0, 0);
+    padding :10px 20px;
+    border: none;
+    border-radius: 5px;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    text-decoration: none;
+}
+.tam:hover {
+    background-color: beige;
+    color: black;
+}
+.aksi {
+    font-size:15px;
+    margin-left: 585px;
+    background-color:#d7bde9;
+    color :rgb(0, 0, 0);
+    border:none;
+    border-radius: 50px;
+    border:1.5px solid #8bd3dd;
+    padding:auto;
+    text-transform: uppercase;
+    margin:10px 0 25px 0;
+    transition: background-color 0.3s ease;
+    text-decoration: none;
+}
+.aksi:hover {
+    background-color: beige;
+    color: black;
+}
+.simpan {
+    font-size:16px;
+    margin-left: 585px;
+    background-color:#8bd3dd;
+    color :rgb(17, 17, 17);
+    border-radius: 0px;
+    border:1.5px solid #8bd3dd;
+    padding:8px 8px;
+    margin:5px 2px;
+    text-decoration: none;
+    border:none;
+    cursor:pointer;
+    transition: background-color 0.3s;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.simpan:hover {
+    background-color: #d7bde9;
+}
+
+
+
+
+
+
+
+
